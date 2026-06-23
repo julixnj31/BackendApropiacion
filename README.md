@@ -179,4 +179,12 @@ Porque facilita el mantenimiento, mejora la organización del código, permite t
 
 ---
 
-# Autor
+# Capturas Envidencia 
+<img width="499" height="159" alt="imagen" src="https://github.com/user-attachments/assets/717ee4c8-e1a1-46b4-945f-8d70de8a45f0" />
+<img width="544" height="121" alt="imagen" src="https://github.com/user-attachments/assets/64dfcccf-fc30-42ae-b3ac-8558b48c2a2c" />
+<img width="513" height="110" alt="imagen" src="https://github.com/user-attachments/assets/9a3079f0-19d9-4225-927a-508efc7101e2" />
+<img width="613" height="120" alt="imagen" src="https://github.com/user-attachments/assets/a085779a-c619-484c-9e90-c60d687661e3" />
+
+
+
+
