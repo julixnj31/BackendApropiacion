@@ -3,11 +3,11 @@ const express = require("express");
 const router = express.Router();
 
 router.get("/", (req, res) => {
-  res.send("Listado de usuarios");
+  res.json({ message: "Listado de usuarios" });
 });
 
 router.post("/", (req, res) => {
-  res.send("Crear usuario");
+  res.json({ message: "Crear usuario" });
 });
 
 module.exports = router;
